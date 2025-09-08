@@ -18,12 +18,6 @@ O objetivo principal deste projeto é **praticar lógica de programação**, man
 
 ---
 
-## Projeto
-
-Você pode ver o projeto funcionando clicando aqui:  
-[🔗 Abrir projeto](https://gabrielacoelho98.github.io/amigo_secreto/)
-
----
 
 ## 🛠️ Tecnologias usadas
 - **HTML** → estrutura da página  
