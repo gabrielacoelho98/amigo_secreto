@@ -35,5 +35,4 @@ Neste projeto pratiquei:
 
 ---
 
-## 👨‍💻 Autor
-Feito com ❤️ por [Gabriela Coelho](https://www.linkedin.com/in/gabrielacoelho98/)
+
